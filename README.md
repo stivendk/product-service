@@ -21,7 +21,7 @@ Para construir y ejecutar los contenedores, usa el siguiente comando:
 ```bash
 docker-compose up --build
 ```
-La aplicación estará disponible en http://localhost:8080.
+La aplicación estará disponible en http://localhost:8080 o http://0.0.0.0:8080/.
 
 ## API Endpoints
 - GET /products: Obtiene todos los productos.
